@@ -1,0 +1,4 @@
+interface:
+  display_name: "CNKI 文献工作流"
+  short_description: "检索、下载、筛选 CNKI 中文文献，并生成可引用格式。"
+  default_prompt: "使用已打开并登录的 Chrome，在 CNKI 检索目标主题文献，完成候选提取、PDF-first 下载、全文筛选，并输出可直接用于论文、综述或报告的参考文献格式。"
